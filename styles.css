@@ -1,0 +1,21 @@
+/* CSS file for Assignment 1 */
+
+#topLevel {
+  background-color: #000000;
+  color: #7FFF00;
+}
+#mainPage {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  column-count: 1;
+
+
+}
+
+#div1 {
+  background-color: #000000;
+  color: #7FFF00;
+  height: 250px;
+  width: 250px;
+}
